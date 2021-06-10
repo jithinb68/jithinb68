@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jithinb68
+- 👀 Front-end developer at Mozilor Technologies
+- 🌱 Currently write the frontend code for CookieYes
