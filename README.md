@@ -1,3 +1,3 @@
 - Hi, I’m Jithin B
-- I work as Front-end developer at CommerceIQ
-- Currently I write Frontend code for CommerceIQ
+- I work as Software Engineer at Walmart Global Tech
+- Currently I write Frontend code for Adtech products in Walmart
